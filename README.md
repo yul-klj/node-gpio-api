@@ -6,3 +6,4 @@ NodeJS project for triggering gpio with API Calling
 - Running in Port 8000
 - Getting ip addresses from wlan0
 - Output on console
+- Access with url as following: http://ip:8000/?pin={desired_pin}
